@@ -1,17 +1,17 @@
 Package: MATH4753FALLNEHE
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Caleb's Package
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
+      "Caleb", "Neher",
+      email = "caleb.c.neher-1@ou.edu",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
+Description: Contains functions that have been used throughout the course across a multitude of labs and assignments.
     Continuation lines should be indented.
-License: What license is it under?
+License: ?
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.3
