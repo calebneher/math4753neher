@@ -1,0 +1,41 @@
+---
+title: "Birthday"
+author: "Caleb Neher"
+date: "2025-10-01"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Birthday}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(MATH4753FALLNEHE)
+```
+
+# The Mathematical Derivation of the Birthday Probability
+
+# The formulation using lchoose() and lfactorial()
+
+
+# The function body
+
+```{r}
+usethis::use_vignette("Birthday")
+body(birthday)
+```
+
+# The calling of the function
+```{r}
+birthday(x = 20:25)
+```
+
+
+
